@@ -1,0 +1,14 @@
+[root]
+name = "rust-secd"
+version = "0.1.0"
+dependencies = [
+ "im 4.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "im"
+version = "4.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum im 4.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "f4730c5eaa234dc0e4eca36049e4ab4d9825f7bff5971baed42f8d90c54ad2fb"
